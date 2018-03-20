@@ -1,3 +1,6 @@
+**Dscription**
+
+`You are a given a VM image vm.ova. The flag is CTF{password}.`
 
 **Files**
 [vm.ova](https://drive.google.com/file/d/1269Xj-ZtRhr2qhV713V-XLYceD7OUYhA/view)
@@ -30,4 +33,3 @@ The password will be `infosec`. So now you have only submit the SHA256 of the fl
 
 
 **That's All Folks!**
-
